@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [School management system](https://github.com/Sowa09/school-management-system) and [CharityDonation](https://github.com/Sowa09/CharityDonation)
 
-- 🌱 I’m currently learning **CI/CD pipeline**
+- 🌱 I’m currently learning **CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sowa09](https://github.com/Sowa09)
 
