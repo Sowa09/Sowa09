@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowa09&label=Profile%20views&color=0e75b6&style=flat" alt="sowa09" /> </p>
 
-- 🔭 I’m currently working on [School management system](https://github.com/Sowa09/school-management-system) and [CharityDonation](https://github.com/Sowa09/CharityDonation)
+- 🔭 I’m currently working on [Random Worker Picker](https://github.com/Sowa09/school-management-system)
 
 - 🌱 I’m currently learning **CI/CD**
 
